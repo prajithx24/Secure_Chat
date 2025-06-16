@@ -17,11 +17,11 @@ Secure Chat is a **client-server architecture-based application** designed to pr
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/secure_chat.git
+    git clone https://github.com/prajithx24/Secure_Chat.git
     ```
 2. **Navigate to the project directory**:
     ```bash
-    cd secure_chat
+    cd Secure_Chat
     ```
 3. **Install dependencies**:
     ```bash
